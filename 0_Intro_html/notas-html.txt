@@ -1,0 +1,19 @@
+*Para iniciar, necesitamos crear*
+
+*Poner base de etiqueas html*
+
+*Existen varias etiquetas*
+ a) Tienen etiquetas de apertura y de cierre
+ b) *
+
+ * Un archivo html se*
+  * dentro de las etiquetas*
+ 
+ * favicon 
+
+*dentro de las etiquetas
+* las etiqueas de podemos poner informacion dentro de ellas
+
+h1 -> texto mas importante
+h2 -> subtitulos
+h3 -> nombres de articulos
