@@ -1,6 +1,6 @@
 
 body {
-    margin: 50px;
+    /*margin: 50px;*/
 }
 
 .logoindex {
@@ -8,17 +8,26 @@ body {
     height: 50px;
 }
 
-.navindex {
-    background-color: rgba(250, 66, 173, 0.658);
-    color: white;
-}
-
 p {
     color: blue;
 }
  #amarillo {
-     color: yellow;
+     color: rgb(52, 98, 158);
  }
  #violeta {
      color: purple;
+ }
+
+ .navindex {
+     background-color: #D00C88
+     ;
+     padding: 20px;
+     border-radius: 30px;
+ }
+
+ .opc {
+     margin-right: 8px;
+     text-decoration: none;
+     color: white;
+     width: 100%;
  }
