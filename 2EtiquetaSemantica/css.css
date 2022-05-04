@@ -1,4 +1,24 @@
+
+body {
+    margin: 50px;
+}
+
 .logoindex {
-    width: 100px;
+    width: 300px;
     height: 50px;
 }
+
+.navindex {
+    background-color: rgba(250, 66, 173, 0.658);
+    color: white;
+}
+
+p {
+    color: blue;
+}
+ #amarillo {
+     color: yellow;
+ }
+ #violeta {
+     color: purple;
+ }
