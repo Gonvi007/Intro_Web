@@ -1,8 +1,8 @@
-
+/* Etiquetas de html */
 body {
     /*margin: 50px;*/
 }
-
+/*Atributo class*/
 .logoindex {
     width: 300px;
     height: 50px;
@@ -10,7 +10,9 @@ body {
 
 p {
     color: blue;
+    text-align: center;
 }
+/* Atributo id */
  #amarillo {
      color: rgb(52, 98, 158);
  }
@@ -18,9 +20,9 @@ p {
      color: purple;
  }
 
+ 
  .navindex {
-     background-color: #D00C88
-     ;
+     background-color: #D00C88;
      padding: 20px;
      border-radius: 30px;
  }
