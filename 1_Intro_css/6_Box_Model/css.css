@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+}
+
+.wrapper {
+    width: 100vm;
+    height: 100vh;
+    background-color: midnightblue;
+}
+
+.box {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin: 50px 10px 5px 8px;
+    padding: 20px 10px 2px 4px;
+    border: 1px dashed #ff0000;
+}
+
+.i-am-your-grandson {
+    width: 30px;
+    height: 30px;
+    background-color: purple;
+}
+
