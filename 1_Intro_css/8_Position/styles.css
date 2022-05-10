@@ -1,0 +1,19 @@
+.cuadro {
+    height: 80px;
+    width: 80px;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+    position: fixed; /* Para que no se mueva del mismo lugar donde se declare*/
+    bottom: 0px;
+    right: 0px;
+}
+
+.amarillo {
+    background-color: yellow;
+}

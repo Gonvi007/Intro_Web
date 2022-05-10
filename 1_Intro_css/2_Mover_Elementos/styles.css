@@ -1,12 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+
 .contenedor {
     width: 100vw; /*100% de lo que esta disponible*/
     height: 100vh;
     background-color: rgb(209, 36, 209);
-}
-html, body {
-    margin: 0;
-    padding: 0;;
-    position: relative;
 }
 
 .hijo {
@@ -14,11 +16,12 @@ html, body {
     height: 150px;
     border: 10px solid #333;
     background-color: #030303;
-    float: right;
-    position: absolute;
-    top: 50px;
+    /* float: right; left */
+    /*position: absolute; /* relative*/
+    /* top: 38%; */
     /* bottom: 10px; 10%*/
     /* left: 30px; */
-    right: 50px;
-    transform: translate(-50% -50%);
+    /*right: 45%;
+    transform: translate(-50% -50%);*/
+    float: right;
 }

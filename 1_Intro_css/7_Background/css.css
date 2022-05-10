@@ -1,0 +1,19 @@
+.hero {
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-image: url("https://w.wallhaven.cc/full/y8/wallhaven-y8lqo7.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.patron {
+    width: 100%;
+    height: 900px;
+    background-repeat: repeat;
+    background-image: url("https://images.wallpapersden.com/image/download/soul-eater-anime-girl_a2xpbJSZmpqtpaSklGtlZa1tZWU.jpg");
+}
+
+.gradient {
+
+}

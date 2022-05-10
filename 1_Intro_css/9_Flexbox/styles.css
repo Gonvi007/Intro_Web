@@ -1,0 +1,18 @@
+.contenedor {
+    display: flex; /*Se debe poner, o no funcionaran los demas*/
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+    height: 500px;
+}
+
+p {
+    width: 400px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
