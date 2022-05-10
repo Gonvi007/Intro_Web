@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gray;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background-color: gray;
+}
+
+.box-tipo-1 {
+    background-color: white;
+}
+
+.box-tipo-2 {
+    border: blue 4px solid;
+}
+
+.columna-izquierda {
+
+}
+.columna-central {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.columna-derecha {
+
+}
