@@ -1,0 +1,119 @@
+/* Etiquetas de html */
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+/*Atributo class*/
+.logoindex {
+    width: 300px;
+    height: 50px;
+}
+
+p {
+    text-align: left;
+}
+
+.h2-img, .other-Post, li {
+    color: rgb(9, 156, 224);
+    list-style-type: none;
+} 
+
+ .navindex {
+     background-color: #D00C88;
+     padding: 20px;
+     margin-left: -200px;
+     margin-right: -8px;
+     border-radius: 0px;
+
+ }
+
+ .opc, .opc-nav-foot {
+     margin-right: 50px;
+     display: right;
+     text-decoration: none;
+     color: white;
+     width: 100%;
+ }
+
+ .ariculo  {
+     width: 60%;
+     height: auto;
+
+}
+.sobre-Nosotros-Bot {
+    width: 30%;
+    margin-left: 180px;
+}
+.parrafo img.img-Art{
+    width: 310px;
+    float: left;
+    text-align: justify;
+}
+
+img.img-Art {
+    float: left;
+    margin-right: 15px;
+    width: 300px;
+    height: 160px;
+}
+
+.btn-Art {
+    background-color: rgb(9, 156, 224);
+    border: none;
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    height: 50px;
+}
+ 
+.menu-bot, .h3-menu-navegacion, .nav-foot, .opc-nav-foot, .sobre-Nosotros-Bot, .section-foote, .h3-Sobre-nosotrosr, .sobre-nosotros {
+ color: white;
+}
+
+div.menu-bot, nav.nav-foot {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+
+}
+
+footer {
+    background-color: #D00C88;
+    padding: 20px;
+    margin-left: -200px;
+    margin-right: -8px;
+    border-radius: 0px;
+}
+
+.foot-blog  {
+    background-color: #9e0968;
+    padding: 3px;
+    margin-left: -200px;
+    margin-right: -8px;
+    border-radius: 0px;
+}
+p.p-foot-blog {
+    text-align: center;
+}
+li {
+    width: auto;
+    list-style: none;
+    color: rgb(9, 156, 224);
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+.aside-right {
+    margin-left: 40px;
+}
+
+.sobre-Nosotros-Bot {
+
+}
+
+.menu-bot {
+
+}
