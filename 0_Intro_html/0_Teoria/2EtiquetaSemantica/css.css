@@ -73,13 +73,6 @@ img.img-Art {
  color: white;
 }
 
-div.menu-bot, nav.nav-foot {
-    display: flex;
-    justify-content: flex-end;
-    align-items: stretch;
-
-}
-
 footer {
     background-color: #D00C88;
     padding: 20px;
@@ -106,9 +99,6 @@ li {
     margin-top: 10px;
 
 }
-.aside-right {
-    margin-left: 40px;
-}
 
 .sobre-Nosotros-Bot {
 
@@ -116,4 +106,15 @@ li {
 
 .menu-bot {
 
+}
+.aside-right {
+    position: absolute;
+    top: 190px;
+    right: 450px;
+}
+
+div.menu-bot {
+    position: relative;
+    bottom: 155px;
+    right: -1150px;
 }
