@@ -3,6 +3,35 @@
     height: 33vw;
     background-color: blue;
     border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 150px;
+    margin: 0px;
+}
+
+.contenedor_cuadrado {
+    display: flex;
+    justify-content: center;
+}
+
+.rojo {
+    background-color: red;
+}
+.verde {
+    background-color: green;
+}
+.azul {
+    background-color: blue;
+}
+.rosa {
+    background-color: pink;
+}
+.amarillo {
+    background-color: yellow;
+}
+.naranja {
+    background-color: orange;
 }
 /* 
 .cont-1 {
@@ -20,7 +49,3 @@
     justify-content: center;
 } */
 
-.contenedor_cuadrado {
-    display: flex;
-    justify-content: center;
-}
