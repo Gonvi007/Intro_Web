@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.portadaDeFondo {
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-image: url(./img/wallhaven-x8ye3z.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    font-size: 150px;
+    text-align: center;
+}
+.txt-izq {
+    text-align: left;
+    color: white;
+    position: absolute;
+    left: 150px;
+    top: 230px;
+}
+.txt-der {
+    text-align: right;   
+    color: white;
+    position: absolute;
+    right: 150px;
+    top: 230px;
+}
+.navegadorIndex {
+    background-color: #161E20;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+.opcNav {
+    color: white;
+    margin-right: 220px;
+    width: 100%;
+}
