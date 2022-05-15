@@ -13,8 +13,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    height: 400px;
-    background-color: gray;
+    height: 600px;
 }
 
 .box-tipo-1 {
@@ -27,16 +26,9 @@ body {
     margin-left: 5px;
 }
 
-.columna-izquierda {
-
-}
 .columna-central {
 
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-.columna-derecha {
-
 }
