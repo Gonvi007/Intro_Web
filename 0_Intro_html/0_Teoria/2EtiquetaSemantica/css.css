@@ -51,14 +51,18 @@ p {
     width: 310px;
     float: left;
     text-align: justify;
-}
-
-img.img-Art {
     float: left;
     margin-right: 15px;
     width: 300px;
     height: 160px;
 }
+
+/* img.img-Art {
+    float: left;
+    margin-right: 15px;
+    width: 300px;
+    height: 160px;
+} */
 
 .btn-Art {
     background-color: rgb(9, 156, 224);
@@ -69,7 +73,7 @@ img.img-Art {
     height: 50px;
 }
  
-.menu-bot, .h3-menu-navegacion, .nav-foot, .opc-nav-foot, .sobre-Nosotros-Bot, .section-foote, .h3-Sobre-nosotrosr, .sobre-nosotros {
+.menu-bot, .h3-menu-navegacion, .nav-foot, .opc-nav-foot, .sobre-Nosotros-Bot, .section-foote, .h3-Sobre-nosotros, .sobre-nosotros {
  color: white;
 }
 

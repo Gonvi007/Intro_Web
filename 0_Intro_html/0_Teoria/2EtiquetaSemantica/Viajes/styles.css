@@ -1,0 +1,98 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+
+}
+body {
+    /* 
+    width
+    height
+    margin
+    padding
+    */
+    /* margin-left: 200px; */
+}
+.espacio {
+    margin-left: 200px;
+}
+
+.navegadorIndex {
+    background-color: #DB008D;
+    padding: 20px;
+    margin: auto auto 30px auto;
+    width: 100%;
+}
+.logoindex {
+    width: 300px;
+    height: 50px;
+}
+
+.azul{
+    color: #01B8E3;
+}
+.blanco {
+    color: white;
+}
+
+li {
+    margin-left: -40px;
+    list-style-type: none;
+}
+
+p {
+    text-align: left;
+    width: 50%;
+    text-align: justify;
+}
+.opc {
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+    width: 100%;  
+}
+.section-footer {
+    background-color: #DB008D;
+    padding: 20px 20px 20px 0px;
+    margin: auto;
+}
+.sobre-nosotros {
+    width: 55%;
+    text-align: justify;
+}
+.foot-blog {
+    background-color: #B00573;
+}
+.img-Art {
+    width: 300px;
+    height: 160px;
+    float: left;
+    margin: 5px 15px 10px 0px;
+}
+.p-foot-blog {
+    width: 100%;
+    text-align: center;
+}
+.btn-Art {
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: #01B8E3;
+    color: white;
+    border: none;
+    margin: 30px 30px 30px 0px;
+}
+.asideRight {
+    position: absolute;
+    top: 175px;
+    right: 360px;
+}
+.menu-bot {
+    position: absolute;
+    text-align: right;
+    right: 200px;
+    /* bottom: 600px; */
+}
+.opc-nav-foot {
+    margin-right: 20px;
+    text-decoration: none;
+}
