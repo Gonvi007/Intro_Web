@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .hero {
     width: 100%;
     height: 900px;
@@ -5,15 +9,25 @@
     background-image: url("https://w.wallhaven.cc/full/y8/wallhaven-y8lqo7.jpg");
     background-position: center;
     background-size: cover;
+    /* border-radius: 10px; */
 }
 
 .patron {
     width: 100%;
-    height: 900px;
+    height: 500px;
+    background-color: blue;
     background-repeat: repeat;
     background-image: url("https://images.wallpapersden.com/image/download/soul-eater-anime-girl_a2xpbJSZmpqtpaSklGtlZa1tZWU.jpg");
 }
 
 .gradient {
+    width: 100%;
+    height: 500px;
+    /* Created with https://www.css-gradient.com */
+    background: #FF016D;
+    background: radial-gradient(ellipse at center, #FF016D, #5C4B55);
+}
+h1 {
+    color: white;
 
 }
