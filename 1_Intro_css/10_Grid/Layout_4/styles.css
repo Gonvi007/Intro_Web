@@ -1,0 +1,31 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr) ; /* Se usa 1fr para espacios automaticos como el auto*/
+    /* Se puede usar el repeat(*numero de columnas/filas que quiero hacer* , 1fr *y el tamaño a hacer*) */
+    /* grid-template-rows: auto auto 40%; */
+    grid-template-rows: minmax(100px, 200px);
+
+    gap: 1em;  /* Espaciado entre todos los elementos */
+    /*column-gap: 10px; Espaciado entre columnas*/
+    /* row-gap: 10px; Espaciado entre filas */
+    align-items: center;
+}
+.grid > div {
+    background-color: #ECF0F1;
+    padding: 1em;
+}
+
+.grid > div:hover {
+    border: 1px solid #F2C40F;
+}
+
+.varios {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 2px;
+}
+.varios > div {
+    border: 1px solid grey;
+    background-color: aquamarine;
+    padding: 1em;
+}
